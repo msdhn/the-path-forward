@@ -1,7 +1,7 @@
 ---
 title: Reading Progress
 description: Tracker for books in the books/ folder — status, progress, and summary notes
-last_updated: 2026-09-12
+last_updated: 2026-09-19
 ---
 
 # Reading Progress Tracker
@@ -15,7 +15,7 @@ last_updated: 2026-09-12
 | Building Applications with AI Agents ([file](./platform_engineering/Building_Applications_with_AI_Agents_-_Michael_Albada.docx)) | Michael Albada | 🟡 Not started | — |
 | LLMOps ([file](./platform_engineering/LLMOps_-_Abi_Aryan.docx)) | Abi Aryan | 🟡 Not started | — |
 | Machine Learning Platform Engineering ([file](./platform_engineering/machine-learning-platform-engineering.docx)) | — | 🟡 Not started | — |
-| The Platform Engineer's Handbook ([file](./platform_engineering/The_Platform_Engineers_Handbook_-_Ajay_Chankramath.docx)) | Ajay Chankramath | 🔵 In progress | — |
+| The Platform Engineer's Handbook ([file](./platform_engineering/The_Platform_Engineers_Handbook_-_Ajay_Chankramath.docx)) | Ajay Chankramath | ✅ Done | [The_Platform_Engineers_Handbook_-_Ajay_Chankramath_summary.md](./platform_engineering/The_Platform_Engineers_Handbook_-_Ajay_Chankramath_summary.md) |
 | An Elegant Puzzle: Systems of Engineering Management ([file](./staff_principal_engineer/an-elegant-puzzle-systems-of-engineering-Will_Larson.epub)) | Will Larson | 🟡 Not started | — |
 | Staff Engineer: Leadership Beyond the Management Track ([file](./staff_principal_engineer/staff-engineer-Will_Lerson.docx)) | Will Larson | 🟡 Not started | — |
 | The Staff Engineer's Path ([file](./staff_principal_engineer/the-staff-engineers-path.pdf)) | Tanya Reilly | 🟡 Not started | — |
